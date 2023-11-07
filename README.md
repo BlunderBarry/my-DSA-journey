@@ -19,7 +19,7 @@ Im ashamed to admit that I still don't know how Algorithmic complexity works... 
 ### What I've learned/practiced:
 As this is my Intro to this concept, I do not think I've grasped all there is to it, but here's what I learned:
 
--Big O notation is used to describe time and space complexity of an algorithm.
+- Big O notation is used to describe time and space complexity of an algorithm.
 
 - Time complexity used to represent how much steps an algorithm will need to execute fully
 as we increase the input size. It is only an approximation and is useful to determine which algorithm is better.
