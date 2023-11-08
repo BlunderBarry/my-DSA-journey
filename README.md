@@ -106,6 +106,8 @@ Time complexity: O(N) -
 Space complexity: I'm not sure about this one, but my guess would be O(N)
 </details>
 
+2- https://leetcode.com/problems/rotate-array
+
 
 
 
