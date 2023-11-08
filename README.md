@@ -41,4 +41,9 @@ It's represented with Big O notation.
 - Did all of these exercises : https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/
 Had about a 50% - 60% rate. Not too bad but will probably check them out another day again.
 
+- Practiced with these questions : http://curric.rithmschool.com/springboard/exercises/big-o-analysis/
+
+- Also did these : https://kodr.me/en/big-o-exercises
+
+
 
