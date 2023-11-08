@@ -76,7 +76,7 @@ stuff to learn about them.
 
 1- https://leetcode.com/problems/container-with-most-water
 <details>
- <summary>My solution:</summary>
+ <summary>My solution</summary>
  
  ```
  public int maxArea(int[] height) {
