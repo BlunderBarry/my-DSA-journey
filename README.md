@@ -45,5 +45,11 @@ Had about a 50% - 60% rate. Not too bad but will probably check them out another
 
 - Also did these : https://kodr.me/en/big-o-exercises
 
+### Todo:
+
+- I decided to follow this comment from Robin Thomas as my roadmap:
+
+
+![image](https://github.com/BlunderBarry/my-leetcode-journey/assets/115489663/136fa7f0-c2c0-480a-b624-f9ad68b3a902)
 
 
