@@ -32,8 +32,8 @@ It's represented with Big O notation.
 - Worst-case scenario, average time and best-case scenario are used to choose which algorithms is best suited for your need.
 (only for time complexity)
 
-- Learned how to calculate time complexity of an algorithm, still need practice as I only did theory.
+- Learned how to calculate time complexity of an algorithm.
 
-- Learned how to calculate space complexity of an algorithm, still need practice as I only did theory.
+- Learned how to calculate space complexity of an algorithm.
 
   ** need to practice Big O notation
