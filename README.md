@@ -60,5 +60,8 @@ So tomorrow I'll be working on arrays, i've worked with arrays plenty of times b
 stuff to learn about them.
 
 
+## Day 2
+
+
 
 
