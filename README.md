@@ -75,7 +75,10 @@ stuff to learn about them.
  - Did a couple medium difficulty array problems on leetcode. Here's the link to the problems I did and the Algorithm I came up with:
 
 1- https://leetcode.com/problems/container-with-most-water
-```
+<details>
+ <summary>My solution:</summary>
+ 
+ ```
  public int maxArea(int[] height) {
         int maxWater = 0; 
         int k = height.length - 1;
@@ -98,13 +101,9 @@ stuff to learn about them.
         }
         return maxWater;
     }
-
 ```
-
-<details open>
-  <summary>Hello</summary>
-  World!
 </details>
+
 
 
 
