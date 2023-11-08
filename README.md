@@ -36,4 +36,9 @@ It's represented with Big O notation.
 
 - Learned how to calculate space complexity of an algorithm.
 
-  ** need to practice Big O notation
+### Exercises:
+
+- Did all of these exercises : https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/
+Had about a 50% - 60% rate. Not too bad but will probably check them out another day again.
+
+
