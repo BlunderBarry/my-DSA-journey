@@ -64,6 +64,47 @@ stuff to learn about them.
 
 ## Day 2
 
+### Goals for today: Get better at working with arrays
+
+### Ressource used:
+
+- https://leetcode.com/tag/array/
+
+ ### What I've learned/practiced:
+
+ - Did a couple medium difficulty array problems on leetcode. Here's the link to the problems I did and the Algorithm I came up with:
+
+1- https://leetcode.com/problems/container-with-most-water
+```
+ public int maxArea(int[] height) {
+        int maxWater = 0; 
+        int k = height.length - 1;
+        int j = 0;
+        int i = 1;
+        while(i < height.length){
+            int dist = k - j;
+            if(height[j] > height[k]){
+                if(dist * height[k] > maxWater) {
+                    maxWater = dist * height[k];
+                }
+                k--;
+            } else {
+                 if(dist * height[j] > maxWater) {
+                    maxWater = dist * height[j];
+                }
+                j++;
+            }
+            i++;
+        }
+        return maxWater;
+    }
+
+```
+
+2-
+
+
+
 
 
 
