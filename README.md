@@ -21,7 +21,7 @@ As this is my Intro to this concept, I do not think I've grasped all there is to
 
 - Big O notation is used to describe time and space complexity of an algorithm.
 
-- Time complexity used to represent how much steps an algorithm will need to execute fully
+- Time complexity is used to represent how much steps an algorithm will need to execute fully
 as we increase the input size. It is only an approximation and is useful to determine which algorithm is better.
 It's represented with Big O notation.
 
