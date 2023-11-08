@@ -101,7 +101,10 @@ stuff to learn about them.
 
 ```
 
-2-
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
 
 
 
