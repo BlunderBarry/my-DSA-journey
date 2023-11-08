@@ -57,7 +57,7 @@ Had about a 50% - 60% rate. Not too bad but will probably check them out another
 *Link to comment: https://www.quora.com/Which-book-should-I-read-for-a-complete-beginner-in-data-structures-algorithms?no_redirect=1
 
 So tomorrow I'll be working on arrays, i've worked with arrays plenty of times before, but i'm sure there's still a lot of
-stuff to learn.
+stuff to learn about them.
 
 
 
