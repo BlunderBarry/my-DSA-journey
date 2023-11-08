@@ -50,6 +50,15 @@ Had about a 50% - 60% rate. Not too bad but will probably check them out another
 - I decided to follow this comment from Robin Thomas as my roadmap:
 
 
-![image](https://github.com/BlunderBarry/my-leetcode-journey/assets/115489663/136fa7f0-c2c0-480a-b624-f9ad68b3a902)
+![image](https://github.com/BlunderBarry/my-leetcode-journey/assets/115489663/9907b1a0-b28c-4be4-9b98-73e8e9dcd98a)
+
+![image](https://github.com/BlunderBarry/my-leetcode-journey/assets/115489663/4fd64149-6c3e-44a5-864e-38f92ea25c7e)
+
+*Link to comment: https://www.quora.com/Which-book-should-I-read-for-a-complete-beginner-in-data-structures-algorithms?no_redirect=1
+
+So tomorrow I'll be working on arrays, i've worked with arrays plenty of times before, but i'm sure there's still a lot of
+stuff to learn.
+
+
 
 
