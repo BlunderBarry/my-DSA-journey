@@ -108,6 +108,14 @@ Space complexity: I'm not sure about this one, but my guess would be O(N)
 
 2- https://leetcode.com/problems/rotate-array
 
+<details>
+ <summary>My solution</summary>
+ Spent about 5 hours on this problem only to come empty handed.... even after checking the solution I feel like I would've never came up with that.
+ Will try to solve it again in a couple of weeks.
+</details>
+
+
+
 
 
 
