@@ -118,6 +118,21 @@ Space complexity: I'm not sure about this one, but my guess would be O(N)
 
 Tomorrow I will continue my work on arrays and try to complete some other medium difficulty problems.
 
+## Day 3
+
+### Goals for today: Get better at working with arrays
+
+### Ressource used:
+
+- https://leetcode.com/tag/array/
+
+ 
+ ### What I've learned/practiced:
+
+  - Did a couple medium difficulty array problems on leetcode. Here's the link to the problems I did and the Algorithm I came up with:
+
+
+
 
 
 
