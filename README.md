@@ -114,6 +114,10 @@ Space complexity: I'm not sure about this one, but my guess would be O(N)
  Will try to solve it again in a couple of weeks.
 </details>
 
+### Todo:
+
+Tomorrow I will continue my work on arrays and try to complete some other medium difficulty problems.
+
 
 
 
