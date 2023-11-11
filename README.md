@@ -124,12 +124,18 @@ Tomorrow I will continue my work on arrays and try to complete some other medium
 
 ### Ressource used:
 
-- https://leetcode.com/tag/array/
+- [https://leetcode.com/tag/array/](https://leetcode.com/explore/learn/card/fun-with-arrays/)
 
  
  ### What I've learned/practiced:
 
-  - Did a couple medium difficulty array problems on leetcode. Here's the link to the problems I did and the Algorithm I came up with:
+  - Did leetcode's intro to arrays, completed everything except the conclusion.
+
+### Todo:
+
+
+
+
 
 
 
