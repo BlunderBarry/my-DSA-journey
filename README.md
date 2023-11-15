@@ -129,9 +129,12 @@ Tomorrow I will continue my work on arrays and try to complete some other medium
  
  ### What I've learned/practiced:
 
-  - Did leetcode's intro to arrays, completed everything except the conclusion.
+  - Did leetcode's intro to arrays, completed everything except the conclusion. Probably should've done
+ that earlier...
 
 ### Todo:
+
+- Start working with linked lists
 
 
 
